@@ -13,9 +13,11 @@
 
 ## About me :woman_technologist: 
 
- 🗺️ Toronto based 🇨🇦.
- 💼 Currently working as a Dev Degree intern at Shopify while 🎓 completing a BA in Comp Sci at Dominican UNiversity Of California.
- 📬 How to reach me: LinkedIn or Visit my portfolio at Sakatia.dev 
+<ul>
+ <li>🗺️ Toronto based 🇨🇦 </li>
+ <li>💼 Currently working as a Dev Degree intern at Shopify while 🎓 completing a BA in Comp Sci at Dominican UNiversity Of California.</li> 
+  <li>📬 How to reach me: LinkedIn or Visit my portfolio at <a href="sakatia.dev">Sakatia.dev</a></li> 
+</ul>
 
 ---
 
@@ -32,5 +34,13 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" title="GraphQl" alt="GraphQL" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" title="Ruby" alt="Ruby" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
 </div>
 
+---
+
+## :fire: My Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=this-is-emma&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=this-is-emma&layout=compact&theme=vision-friendly-dark)](https://github.com/this-is-emma/github-readme-stats)
