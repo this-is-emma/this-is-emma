@@ -4,7 +4,7 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWI0N2VlMjUxNDEwMjlkOGQ1NWMxMGJmMzk1ZTQxYjJhZjU3MmMzMyZjdD1z/j1soPQE95y0eXhMwKT/giphy.gif" width="100"/>
   <h1>Hello there!</h1>
   <div id="badges">
-    <h3><a href="sakatia.dev">sakatia.dev</a></h3>
+    <h3><a href="https://www.sakatia.dev">sakatia.dev</a></h3>
     <a href="https://www.linkedin.com/in/edithsakatia/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
       <img src="https://komarev.com/ghpvc/?username=this-is-emma&style=flat-square&color=blue" alt=""/>  
   </div>
@@ -20,7 +20,7 @@
   <li>Completing a BA in Comp Sci at <a href="https://www.dominican.edu/">Dominican University Of California</a>.</li>
   <li>Currently exploring back end development at <a href="https://www.shopify.com/">Shopify</a> as a <a href="https://devdegree.ca/">Dev Degree</a> intern.</li>
  <li>InfoSec/CyberSec enthusiast.</li>
- <li>Reach me via <a href="https://www.linkedin.com/in/edithsakatia/">LinkedIn</a> or visit my portfolio at <a href="sakatia.dev">Sakatia.dev</a>.</li> 
+ <li>Reach me via <a href="https://www.linkedin.com/in/edithsakatia/">LinkedIn</a> or visit my portfolio at <a href="https://www.sakatia.dev/">Sakatia.dev</a>.</li> 
 </ul>
 
 
