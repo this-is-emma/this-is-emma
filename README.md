@@ -2,26 +2,27 @@
 <!-- source - https://www.sitepoint.com/github-profile-readme/-->
 <div id="header" align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWI0N2VlMjUxNDEwMjlkOGQ1NWMxMGJmMzk1ZTQxYjJhZjU3MmMzMyZjdD1z/j1soPQE95y0eXhMwKT/giphy.gif" width="100"/>
-  <h1>Hi there!</h1>
+  <h1>Hello there!</h1>
   <div id="badges">
-    <a><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-      <br>
-      <br>
+    <h3><a href="sakatia.dev">sakatia.dev</a></h3>
+    <a href="https://www.linkedin.com/in/edithsakatia/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
       <img src="https://komarev.com/ghpvc/?username=this-is-emma&style=flat-square&color=blue" alt=""/>  
   </div>
 </div>
 
 ---
 
-## About me :woman_technologist: 
+## :woman_technologist: About me 
 
 <ul>
- <li>Toronto based 🇨🇦 </li>
- <li>Currently working as a Dev Degree intern at Shopify while 🎓 completing a BA in Comp Sci at Dominican UNiversity Of California.</li> 
-  <li>How to reach me: LinkedIn or Visit my portfolio at <a href="sakatia.dev">Sakatia.dev</a></li> 
+ <li>Toronto based 🇨🇦. </li>
+ <li>Several years of experience in lending and payment processing.</li>
+  <li>Completing a BA in Comp Sci at <a href="https://www.dominican.edu/">Dominican University Of California</a>.</li>
+  <li>Currently exploring back end development at <a href="https://www.shopify.com/">Shopify</a> as a <a href="https://devdegree.ca/">Dev Degree</a> intern.</li>
+ <li>InfoSec/CyberSec enthusiast.</li>
+ <li>Reach me via <a href="https://www.linkedin.com/in/edithsakatia/">LinkedIn</a> or visit my portfolio at <a href="sakatia.dev">Sakatia.dev</a>.</li> 
 </ul>
 
----
 
 ## :hammer_and_wrench: Languages and Tools:
 
@@ -39,10 +40,13 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
 </div>
 
----
 
 ## :fire: My Stats
 
+#### Github stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=this-is-emma&theme=dark&background=000000)](https://git.io/streak-stats)
 
+#### Most used languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=this-is-emma&layout=compact&theme=vision-friendly-dark)](https://github.com/this-is-emma/github-readme-stats)
+
+---
