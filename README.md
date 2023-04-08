@@ -2,7 +2,7 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWI0N2VlMjUxNDEwMjlkOGQ1NWMxMGJmMzk1ZTQxYjJhZjU3MmMzMyZjdD1z/j1soPQE95y0eXhMwKT/giphy.gif" width="100"/>
   <h1>Hi there!</h1>
   <div id="badges">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <a><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
       <br>
       <br>
       <img src="https://komarev.com/ghpvc/?username=this-is-emma&style=flat-square&color=blue" alt=""/>  
@@ -14,9 +14,9 @@
 ## About me :woman_technologist: 
 
 <ul>
- <li>🗺️ Toronto based 🇨🇦 </li>
- <li>💼 Currently working as a Dev Degree intern at Shopify while 🎓 completing a BA in Comp Sci at Dominican UNiversity Of California.</li> 
-  <li>📬 How to reach me: LinkedIn or Visit my portfolio at <a href="sakatia.dev">Sakatia.dev</a></li> 
+ <li>Toronto based 🇨🇦 </li>
+ <li>Currently working as a Dev Degree intern at Shopify while 🎓 completing a BA in Comp Sci at Dominican UNiversity Of California.</li> 
+  <li>How to reach me: LinkedIn or Visit my portfolio at <a href="sakatia.dev">Sakatia.dev</a></li> 
 </ul>
 
 ---
