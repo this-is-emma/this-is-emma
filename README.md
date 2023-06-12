@@ -43,9 +43,4 @@
 
 #### Most used languages lately:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=this-is-emma&layout=compact&theme=vision-friendly-dark)](https://github.com/this-is-emma/github-readme-stats)
-
-#### Quick summary:
-
-[![Edith's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=this-is-emma&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/this-is-emma/github-readme-stats#gh-dark-mode-only)
-
 ---
