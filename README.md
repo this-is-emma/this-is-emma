@@ -15,7 +15,8 @@
 ## :woman_technologist: About me 
 
 <ul>
- <li>Several years of experience in lending and payment processing.</li>
+ <li>Security Researcher.</li>
+  <li>Several years of experience in lending and payment processing.</li>
   <li>Completing a BA in Comp Sci at <a href="https://www.dominican.edu/">Dominican University Of California</a>.</li>
   <li>Currently exploring back end development at <a href="https://www.shopify.com/">Shopify</a> as a <a href="https://devdegree.ca/">Dev Degree</a> intern.</li>
  <li>Security Researcher.</li>
